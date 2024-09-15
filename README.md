@@ -27,13 +27,11 @@
 ## 📊 Github Stats
 
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aymanshawqi360&show_icons=true&locale=en&layout=compact" alt="aymanshawqi360" /></p>
 
-<p align="center">
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=aymanshawqi360&show_icons=true&locale=en&layout=compact" alt="aymanshawqi360" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aymanshawqi360&show_icons=true&locale=en" alt="aymanshawqi360" /></p>
 
-<p><img  src="https://github-readme-stats.vercel.app/api?username=aymanshawqi360&show_icons=true&locale=en" alt="aymanshawqi360" /></p>
-
-<p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=aymanshawqi360&" alt="aymanshawqi360" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aymanshawqi360&" alt="aymanshawqi360" /></p>
 
  
   
